@@ -712,6 +712,657 @@ Bg3 b5 9. Be2 Bb7 10. h4 g4 11. Ne5 *
 1. d4 f5 2. Qd3 d5 3. g4 fxg4 4. h3 *
 
 [Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.h3"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "28"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qb6 13. Re1 Rfb8 14. Re2
+Qa6 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.h3"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qb6 13. Re1 Ne8 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.h3"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "31"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qa5 13. Re1 Rfb8 14. e5
+dxe5 15. Nxe5 Nxe5 16. Rxe5 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.h3"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Ra6 13. Re1 Qa8 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.h3"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Nb6 13. Re1 Qd7 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.h3"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "25"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qc7 13. Re1 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.Re1"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Qb6 13. Re2 Rfb8 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.Re1"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "25"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Ng4 13. Nd2 *
+
+[Event "?"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.Re1"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "25"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Ng4 13. Qe2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.Re1"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "28"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Qa5 13. e5 Ng4 14. exd6
+exd6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 12.Re1"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Nb6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.h3"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. h3 O-O 11. Kg1 Nbd7 12. Kh2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 9.g4"]
+[Black "?"]
+[Result "*"]
+[ECO "A59"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. g4 Bg7 10. Kg2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.Rb1"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Nb6 12. b3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.Rb1"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Qb6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.Rb1"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Qa5 12. Bd2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.Rb1"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Qa5 12. Qc2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.Rb1"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "29"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 Nbd7 10. Rb1 Nb6 11. b3 Bc8 12. Nh4 h6 13. Qc2 Qd7 14. Bb2 g5
+15. Nf3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.Rb1"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "26"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 Nbd7 10. Rb1 Nb6 11. b3 Ra7 12. O-O Qa8 13. Bb2 O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 10.Rb1"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 Nbd7 10. Rb1 Qa5 11. Bd2 Nb6 12. b3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 11.Qc2"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+g3 Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Qc2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 8.Nd2"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
+Nd2 Bg7 9. e4 Bxf1 10. Nxf1 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 9.Nh3"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8.
+Bg2 Bg7 9. Nh3 O-O 10. O-O Nbd7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line 7.f4"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. f4 d6 8.
+Nf3 Bg7 9. e4 Bxf1 10. Rxf1 O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Main line double fianchetto"]
+[Black "?"]
+[Result "*"]
+[ECO "A58"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. g3 g6 7. Bg2 d6 8.
+b3 Bg7 9. Bb2 O-O 10. Nh3 Nbd7 11. O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.b6"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3
+Bg7 9. Nd2 O-O 10. Be2 Nbd7 11. O-O *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.b6"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3
+Bg7 9. Nd2 O-O 10. Be2 Nbd7 11. Nc4 Qc7 12. Bf4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.b6"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3
+Bg7 9. Be2 O-O 10. O-O Nbd7 11. h3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.b6"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7 7. a4 Qxb6 8.
+a5 Qb4 9. Ra4 Qb8 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.b6"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7 7. e4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.b6"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 e6 6. Nc3 Nxd5 7. Nxd5 exd5 8.
+Qxd5 Nc6 9. Nf3 Rb8 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
+8. Ne2 Nxd5 9. O-O Nxc3 10. Nxc3 e6 11. e4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
+8. Ne2 Nxd5 9. O-O Nc7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
+8. Ne2 Bxd5 9. O-O Bc6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
+8. Bd2 Qb6 9. Bc4 e6 10. Nge2 exd5 11. Qb3 Qxb3 12. Bxb3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
+8. Bd2 Qb6 9. Bc4 e6 10. e4 Nxe4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
+8. Bd2 Qb6 9. a4 Nxd5 10. Nf3 Nf6 11. O-O e6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "13"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 Bb7 6. Nc3 Qa5 7. bxa6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
+Bb7 9. Ra3 e6 10. dxe6 fxe6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
+Bb7 9. Ra3 axb5 10. Bxb5 e6 11. dxe6 fxe6 12. O-O d5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
+Bb7 9. Bc4 e6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
+d6 9. e4 Nbd7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.f3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
+Na3 d6 9. Nc4 Qd8 10. a3 e6 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.f3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "23"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
+Na3 d6 9. Nc4 Qd8 10. Bd3 e6 11. dxe6 Bxe6 12. Ne2 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.f3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "19"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
+Na3 d6 9. Nc4 Qc7 10. a3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.f3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
+Na3 e6 9. Nc4 Qc7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.f3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 exd5 7. e5 Qe7 8. Qe2
+Ng8 9. Nc3 Bb7 10. Nh3 c4 11. Nf4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.f3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 c4 7. Bxc4 axb5 8.
+Bxb5 Bc5 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.Nc3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8.
+Bc4 Nbd7 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko declined 5.Nc3"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. Nxb5 *
+
+[Event "?"]
 [Site "?"]
 [Date "2006.??.??"]
 [Round "?"]
@@ -5125,632 +5776,6 @@ Rfe8 15. Rad1 Nc5 *
 
 1. Nf3 d5 2. c4 d4 3. b4 c5 4. e3 dxe3 5. fxe3 cxb4 6. d4 *
 
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.h3"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "28"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qb6 13. Re1 Rfb8 14. Re2
-Qa6 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.h3"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "26"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qb6 13. Re1 Ne8 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.h3"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "31"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qa5 13. Re1 Rfb8 14. e5
-dxe5 15. Nxe5 Nxe5 16. Rxe5 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.h3"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "26"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Ra6 13. Re1 Qa8 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.h3"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "26"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Nb6 13. Re1 Qd7 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.h3"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "25"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Qc7 13. Re1 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.Re1"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "26"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Qb6 13. Re2 Rfb8 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.Re1"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "25"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Ng4 13. Nd2 *
-
-[Event "?"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.Re1"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "25"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Ng4 13. Qe2 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.Re1"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "28"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Qa5 13. e5 Ng4 14. exd6
-exd6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 12.Re1"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "24"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Nb6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.h3"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. Nf3 Bg7 10. h3 O-O 11. Kg1 Nbd7 12. Kh2 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 9.g4"]
-[Black "?"]
-[Result "*"]
-[ECO "A59"]
-[PlyCount "19"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
-Kxf1 d6 9. g4 Bg7 10. Kg2 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.Rb1"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Nb6 12. b3 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.Rb1"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "22"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Qb6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.Rb1"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Qa5 12. Bd2 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.Rb1"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 Nbd7 10. Rb1 O-O 11. O-O Qa5 12. Qc2 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.Rb1"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "29"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 Nbd7 10. Rb1 Nb6 11. b3 Bc8 12. Nh4 h6 13. Qc2 Qd7 14. Bb2 g5
-15. Nf3 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.Rb1"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "26"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 Nbd7 10. Rb1 Nb6 11. b3 Ra7 12. O-O Qa8 13. Bb2 O-O *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 10.Rb1"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 Nbd7 10. Rb1 Qa5 11. Bd2 Nb6 12. b3 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 11.Qc2"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "21"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-g3 Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Qc2 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 8.Nd2"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "19"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8.
-Nd2 Bg7 9. e4 Bxf1 10. Nxf1 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 9.Nh3"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "20"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8.
-Bg2 Bg7 9. Nh3 O-O 10. O-O Nbd7 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line 7.f4"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "20"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. f4 d6 8.
-Nf3 Bg7 9. e4 Bxf1 10. Rxf1 O-O *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Main line double fianchetto"]
-[Black "?"]
-[Result "*"]
-[ECO "A58"]
-[PlyCount "21"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. g3 g6 7. Bg2 d6 8.
-b3 Bg7 9. Bb2 O-O 10. Nh3 Nbd7 11. O-O *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.b6"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "21"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3
-Bg7 9. Nd2 O-O 10. Be2 Nbd7 11. O-O *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.b6"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3
-Bg7 9. Nd2 O-O 10. Be2 Nbd7 11. Nc4 Qc7 12. Bf4 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.b6"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "21"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3
-Bg7 9. Be2 O-O 10. O-O Nbd7 11. h3 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.b6"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "18"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7 7. a4 Qxb6 8.
-a5 Qb4 9. Ra4 Qb8 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.b6"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "13"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7 7. e4 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.b6"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "18"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 e6 6. Nc3 Nxd5 7. Nxd5 exd5 8.
-Qxd5 Nc6 9. Nf3 Rb8 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "21"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
-8. Ne2 Nxd5 9. O-O Nxc3 10. Nxc3 e6 11. e4 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "18"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
-8. Ne2 Nxd5 9. O-O Nc7 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "18"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
-8. Ne2 Bxd5 9. O-O Bc6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
-8. Bd2 Qb6 9. Bc4 e6 10. Nge2 exd5 11. Qb3 Qxb3 12. Bxb3 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "20"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
-8. Bd2 Qb6 9. Bc4 e6 10. e4 Nxe4 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "22"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 Bb7
-8. Bd2 Qb6 9. a4 Nxd5 10. Nf3 Nf6 11. O-O e6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "13"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 Bb7 6. Nc3 Qa5 7. bxa6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "20"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
-Bb7 9. Ra3 e6 10. dxe6 fxe6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "24"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
-Bb7 9. Ra3 axb5 10. Bxb5 e6 11. dxe6 fxe6 12. O-O d5 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "18"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
-Bb7 9. Bc4 e6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.e3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "18"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
-d6 9. e4 Nbd7 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.f3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "20"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
-Na3 d6 9. Nc4 Qd8 10. a3 e6 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.f3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "23"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
-Na3 d6 9. Nc4 Qd8 10. Bd3 e6 11. dxe6 Bxe6 12. Ne2 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.f3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "19"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
-Na3 d6 9. Nc4 Qc7 10. a3 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.f3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "18"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8.
-Na3 e6 9. Nc4 Qc7 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.f3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "21"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 exd5 7. e5 Qe7 8. Qe2
-Ng8 9. Nc3 Bb7 10. Nh3 c4 11. Nf4 *
-
-[Event "Netherlands"]
-[Site "Netherlands"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Benko declined 5.f3"]
-[Black "?"]
-[Result "*"]
-[ECO "A57"]
-[PlyCount "16"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 c4 7. Bxc4 axb5 8.
-Bxb5 Bc5 *
-
 [Event "Netherlands"]
 [Site "Netherlands"]
 [Date "????.??.??"]
@@ -8249,6 +8274,35 @@ Bd3 *
 [PlyCount "9"]
 
 1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 a5 5. Nf3 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.01.29"]
+[Round "?"]
+[White "Four Pawns Attack"]
+[Black "?"]
+[Result "*"]
+[ECO "A69"]
+[EventDate "2012.??.??"]
+[PlyCount "29"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Nxe5 14. Nxe5
+Bxe5 15. Bc4 *
+
+[Event "Apeldoorn"]
+[Site "Apeldoorn"]
+[Date "2012.01.29"]
+[Round "?"]
+[White "Four Pawns Attack"]
+[Black "?"]
+[Result "*"]
+[ECO "A69"]
+[EventDate "2012.??.??"]
+[PlyCount "27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Nxe5 14. d6 *
 
 [Event "?"]
 [Site "?"]
