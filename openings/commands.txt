@@ -1,0 +1,1 @@
+pgn-extract -C -D -N -s -V -Z --fixresulttags --nobadresults --nosetuptags [A-Z]*.pgn s*.pgn > merged.pgn
